@@ -1,6 +1,7 @@
-# UX-Design-courses-in-progress
-List of ux/design courses I'm currently doing
+# Digital skills courses in progress
+List of ux/design/digital marketing/web analytics courses I'm currently doing :
 
-* Introduction to UI and UX Design (Codecademy, June 2022)
+* Digital Skills: Digital Marketing (FutureLearn, July 2022)
+* Digital Skills: Web Analytics (FutureLearn, July 2022)
 
 
